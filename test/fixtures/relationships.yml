@@ -1,0 +1,15 @@
+one:
+  follower: vishwa
+  followed: lana
+
+two:
+  follower: vishwa
+  followed: malory
+
+three:
+  follower: lana
+  followed: vishwa
+
+four:
+  follower: archer
+  followed: vishwa
